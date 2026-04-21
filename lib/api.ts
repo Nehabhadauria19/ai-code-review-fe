@@ -2,5 +2,5 @@
 import axios from "axios";
 
 export const api = axios.create({
-  baseURL: "https://your-backend.onrender.com/api"
+  baseURL: "https://ai-code-review-be-b79m.onrender.com"
 });
