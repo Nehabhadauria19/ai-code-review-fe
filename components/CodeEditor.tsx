@@ -8,7 +8,6 @@ type CodeEditorProps = {
 };
 
 export default function CodeEditor({ code, setCode }: CodeEditorProps) {
-    
   return (
     <Editor
       height="400px"
